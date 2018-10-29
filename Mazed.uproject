@@ -14,7 +14,7 @@
 	"Plugins": [
 		{
 			"Name": "VictoryUMG",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
