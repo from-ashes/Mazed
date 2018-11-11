@@ -3,7 +3,6 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
-	
 	"Modules": [
 		{
 			"Name": "Mazed",
@@ -15,6 +14,14 @@
 		{
 			"Name": "VictoryUMG",
 			"Enabled": false
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
 		}
 	]
 }
