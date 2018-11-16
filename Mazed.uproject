@@ -22,6 +22,17 @@
 		{
 			"Name": "NiagaraExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "BPThreads",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2950a5bdc50a463a8a99aa2f3f519d19"
 		}
+	],
+	"TargetPlatforms": [
+		"Lumin",
+		"WindowsNoEditor",
+		"AllDesktop",
+		"LinuxNoEditor"
 	]
 }
